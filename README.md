@@ -1,2 +1,2 @@
-# Expoert-csv-data-to-MySQL
-Expoert csv data to MySQL
+# Export-csv-data-to-MySQL
+Export csv data to MySQL
